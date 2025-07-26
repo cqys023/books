@@ -1,1 +1,1 @@
-# books
+# This is a Chinese eBook download software that includes a collection of 46,687 eBooks, covering a wide range of fields and professions. If you're a fan of the Chinese language, why not give this software a try and enjoy the wealth of books it offers?
